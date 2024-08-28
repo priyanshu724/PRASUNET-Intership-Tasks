@@ -9,7 +9,7 @@ the other two units and display the converted values to the user. For example, i
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Prasunet_SD_01 {
     public static void main(String[] args) {
         System.out.print("Write temperature value : ");
         Scanner input = new Scanner(System.in);
